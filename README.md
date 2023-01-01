@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @selimsagir
 - 👀 I’m interested in everything which is interesting
 - 🌱 I’m currently learning gui design with pyqt
-- 💞️ I’m looking to collaborate on good resources to learn programming -C and Python-
+- 💞️ I’m looking to collaborate on good resources to learn programming -C and C++(newbie) as well as Python
 - 📫 How to reach me -> depends you.
 
 <!---
